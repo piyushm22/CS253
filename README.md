@@ -24,7 +24,7 @@ Go into the directory you extracted from the zip file and then run the required 
 ```sh
 cd <Directory_name>
 make       # Compile the project
-./main     # Run the program
+./final     # Run the program
 make clean # Remove compiled files
 ```
 ## Data Files
